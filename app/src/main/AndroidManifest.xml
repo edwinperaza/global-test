@@ -18,7 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".productDetail.ProductDetailActivity"/>
+        <activity android:name=".productDetail.ProductDetailActivity"
+            android:parentActivityName="com.example.edwinperaza.globallogictest.productDetail.ProductDetailActivity"/>
     </application>
 
 </manifest>
