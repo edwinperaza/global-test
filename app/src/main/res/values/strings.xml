@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Global Logic Test</string>
+
+    <string name="product_detail_error">There was a problem showing the product</string>
+    <string name="product_list_network_error">There were a network error, Try Again!!!</string>
+    <string name="product_list_converter_error">There were a problem with the server. Contact your provider!</string>
+</resources>
